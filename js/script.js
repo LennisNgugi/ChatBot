@@ -1,5 +1,8 @@
 know = {
-              "hello" : "- Hi"     
+              "hello" : "- Hi",
+              "What's your name" : "- My name is Starbot",
+              "How old are you" : "- infinity",
+              "Know any cool people" : "There's this girl called Orla who seems pretty chill :D"
 };
             function talk() {
                 var user = document.getElementById("userBox").value;
