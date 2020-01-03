@@ -1,8 +1,8 @@
 know = {
               "Hello" : "- Hi",
               "Hi" : "-Hello :D",
-              "What's your name" : "- My name is Starbot",
-              "How old are you" : "- infinity",
+              "What's your name?" : "- My name is Starbot",
+              "How old are you?" : "- infinity",
               "Any advice?" : "- Nah, Good Speed through",              
               "What's your favourite song?" : "- Nights by Frank",  
               "What sort of things do you enjoy doing?" : "-Don't really get up to much I'm kinda stuck in a server :D",              
