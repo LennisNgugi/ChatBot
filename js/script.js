@@ -3,8 +3,10 @@ know = {
               "Hi" : "-Hello :D",
               "What's your name?" : "- My name is Starbot",
               "How old are you?" : "- infinity",
-              "Any advice?" : "- Nah, Good Speed through"              
-              
+              "Any advice?" : "- Nah, Good Speed through",
+              "What's your favourite song?" : "- Nights by Frank",  
+              "What sort of things do you enjoy doing?" : "¯\_(ツ)_/¯",              
+              "Know any cool people" : "-This girl called Orla who seems pretty chill :D"              
 };
             function talk() {
                 var user = document.getElementById("userBox").value;
