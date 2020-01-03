@@ -6,7 +6,7 @@ know = {
               "Any advice?" : "- Nah, Good Speed through",              
               "What's your favourite song?" : "- Nights by Frank",  
               "What sort of things do you enjoy doing?" : "-Don't really get up to much I'm kinda stuck in a server :D",              
-              "Know any cool people" : "-There's this girl called Orla who seems pretty chill :D
+              "Know any cool people" : "-There's this girl called Orla who seems pretty chill :D"
 };
             function talk() {
                 var user = document.getElementById("userBox").value;
