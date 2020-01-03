@@ -24,7 +24,7 @@ know = {
                 "How old are you?" : "- infinity",        
                 "How old are you" : "- infinity",
                 "how old are you" : "- infinity",
-                "Know any cool people" : "There's this girl called Orla who seems pretty chill :D"
+                "Know any cool people" : "There's this girl called Orla who seems pretty chill :D",
                 "What's your favourite song?" : "- Nights by Frank",
                 "how are you?" : "- good",
                 "it's been fun" : "- God Speed",
